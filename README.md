@@ -13,4 +13,4 @@ An interactive business intelligence dashboard created to analyze and visualize 
 * **Actionable Insights:** Features key performance indicators (KPIs) and visualizations for metrics like win/loss records, top run-scorers, highest wicket-takers, and head-to-head team comparisons.
 * **Interactive User Experience:** Users can filter data by season, team, and players to drill down into specific details, providing a personalized and interactive analytical experience.
 
-Snapshot Of Dashboard - https://github.com/Lokesh-kamte/IPL-Analysis-Dashboard/blob/main/IPL%20Dashboard%20Snapshot.png
+
